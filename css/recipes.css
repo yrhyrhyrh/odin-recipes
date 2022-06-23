@@ -1,0 +1,59 @@
+img {
+    width: 300px;
+    height: auto;
+    text-align: center;
+    margin:auto;
+    display: block;
+}
+
+p, ul, ol {
+    font-size: 22px;
+}
+
+h1,
+.description {
+    text-align: center;
+}
+
+h1 {
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 40px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+h2.ingredient-title{
+    color:darkolivegreen;
+    background-color: darksalmon;
+}
+
+h2.steps-title{
+    color: cornsilk;
+    background-color: indianred;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+h2.description {
+    background-color: antiquewhite;
+}
+
+
+#brownies {
+    background-color: bisque;
+    color: brown;
+}
+
+#chicken-piccata {
+    background-color: darkslateblue;
+    color: floralwhite;
+}
+
+#potato-chips {
+    background-color: gold;
+    color: brown;
+}
